@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/Funçoes/bin/Debug/netcoreapp3.1/Funçoes
+/home/maiara/Área de Trabalho/Funçoes/bin/Debug/netcoreapp3.1/Funçoes.deps.json
+/home/maiara/Área de Trabalho/Funçoes/bin/Debug/netcoreapp3.1/Funçoes.runtimeconfig.json
+/home/maiara/Área de Trabalho/Funçoes/bin/Debug/netcoreapp3.1/Funçoes.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Funçoes/bin/Debug/netcoreapp3.1/Funçoes.dll
+/home/maiara/Área de Trabalho/Funçoes/bin/Debug/netcoreapp3.1/Funçoes.pdb
+/home/maiara/Área de Trabalho/Funçoes/obj/Debug/netcoreapp3.1/Funçoes.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Funçoes/obj/Debug/netcoreapp3.1/Funçoes.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Funçoes/obj/Debug/netcoreapp3.1/Funçoes.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Funçoes/obj/Debug/netcoreapp3.1/Funçoes.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Funçoes/obj/Debug/netcoreapp3.1/Funçoes.dll
+/home/maiara/Área de Trabalho/Funçoes/obj/Debug/netcoreapp3.1/Funçoes.pdb
+/home/maiara/Área de Trabalho/Funçoes/obj/Debug/netcoreapp3.1/Funçoes.genruntimeconfig.cache
